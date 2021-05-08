@@ -1,0 +1,24 @@
+# Flor Rios Finds a Statement
+
+## Instructions
+Using EDGAR or a Google search, try to find a copy of a company's 10K or 10Q. Identify the three major statements within it. Are there any line-items that you haven't heard of? What are additional items contained in an official document that we haven't covered here?
+
+	Answer: KEY TAKEAWAYS
+SEC Form 10-Q is a comprehensive report of financial performance submitted quarterly by all public companies to the Securities and Exchange Commission.
+
+Form 10-Q contains financial statements, management discussion and analysis, disclosures, and internal controls for the previous quarter.
+
+Companies must file their 10-Qs 40 or 45 days after the end of their quarters, depending on the size of their public float.
+
+A snapshot of the company's financial position, Form 10-Q provides investors with information they can compare to previous periods and use to evaluate the outlook for the stock's performance.
+
+Form 10-Q is not an audited statement, unlike the annual Form 10-K companies are also required to file.
+
+	source:https://www.investopedia.com/terms/1/10q.asp
+
+
+
+
+
+
+

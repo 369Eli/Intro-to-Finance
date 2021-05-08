@@ -1,0 +1,13 @@
+# Risk Reflection
+
+In the previous section, we had you research types of risk, and in this one, we defined a few that are useful for this course. Of all of those, which are relevant to your day-to-day experiences?
+
+## Instructions
+
+Consider your current company (or a friend's company if you're not currently working), what kind of risks is that company exposed to? How do they mitigate risk? What kinds of risks that weren't discussed here are relevant to your role?
+
+## Answer: Law firms often face liquidity risk. The lengthy litigation process often pressures smaller law firms to settle out of court in order to avoid costly litigation fees that can be absorbed by larger firms. This creates an inequity in justice for indigent litigants and communities because smaller law firms can not hire the necessary staff to properly investigate claims. 
+
+By creating not for profit law firms these law firms can access government grants and funding to meet the needs of these kinds of litigants. The challenge even in this proposed solution, is that the lawyers that are hired at these law firms are often inexperienced and receive lower salaries than their corporate counterparts. 
+
+To address these cashflow restrictions, not for profit firms can solicit tax deductible donations for their patrons and also relieve the immediate need for liquidity. 
